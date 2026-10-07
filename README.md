@@ -2,7 +2,6 @@
 
 **[작성자 정보]**
 * **작성자**: 이나윤
-* **Contact**: 010-5061-0492 | yilllios.03@gmail.com
 * **Portfolio**: [GitHub 바로가기 (클릭)](https://github.com/Lee-Nayoon)
 * **Date**: 2026. 10.
 
